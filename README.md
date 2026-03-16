@@ -1,4 +1,4 @@
-# Call Wiki - Minipedia
+# Call Wiki - Minipedia Prompt Library
 
 _AI generated in dialogue with humans. Not fully reviewed._
 
