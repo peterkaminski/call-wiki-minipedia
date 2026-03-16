@@ -14,6 +14,16 @@ _This repo assembled by Claude Code Opus 4.6, directed by Pete._
 - **MarkPub** — the static site generator used to publish call wikis to the web: <https://markpub.org/>
 - **Open Global Mind** — the community where the concept originated: <https://openglobalmind.com/>
 
+## To Do
+
+This wiki/repo documents _creation_ of a Call Wiki aka Minipedia with agentic AI (e.g., Claude Code).
+
+**Publishing** is unfortunately, left as an exercise to the reader, but it's "really easy" (and hosted for free as in beer): use MarkPub to publish to Cloudflare Pages or Netlify, as documented here: [MarkPub Install and Web-publish Steps - MarkPub](https://markpub.org/documentation/markpub_install_and_web-publish_steps).
+
+It's super easy to do once you've done it a few times -- Pete's fingers can do it without his brain being awake at this point -- but it needs better documentation.
+
+Better documentation forthcoming at some date, no promises when yet! Have fun!
+
 ## Repository Contents
 
 | File | Description |
